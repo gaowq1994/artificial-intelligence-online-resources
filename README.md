@@ -1,1 +1,5 @@
 # artificial-intelligence-online-resources
+
+| S.No | Course Name                                           | University/Instructor(s)                       | Course WebPage                                               | Lecture Videos                                               | Year            |
+| ---- | ----------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
+| 1.   | **Neural Networks for Machine Learning**              | Geoffrey Hinton, University of Toronto         | [Lecture-Slides](http://www.cs.toronto.edu/~hinton/coursera_slides.html) <br/> [CSC321-tijmen](https://www.cs.toronto.edu/~tijmen/csc321/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) <br/> [UofT-mirror](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | 2012 <br/> 2014 |
